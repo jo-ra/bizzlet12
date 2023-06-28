@@ -1,4 +1,4 @@
-# bizzlet12
+# bizzllet12
 
 ### Tcpserver je konacno resenje. (pokretanje node tcpserver.js)
 
